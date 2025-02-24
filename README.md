@@ -21,4 +21,5 @@ This project analyzes Cyclistic's bike-share data to identify usage patterns of 
 - **Visualization:** ggplot2, RMarkdown  
 - **Data Storage:** CSV files  
 
-**[Click here to download the report](https://github.com/ChristianJudge/cyclistic-bike-share-case-study/raw/main/Cyclistic.spin.html)**  
+📄 **[View the full report online](https://ChristianJudge.github.io/cyclistic-bike-share-case-study/cyclistic.spin.html)**
+
